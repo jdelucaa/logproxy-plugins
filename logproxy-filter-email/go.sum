@@ -719,10 +719,11 @@ github.com/philhofer/fwd v1.0.0/go.mod h1:gk3iGcWd9+svBvR0sR+KPcfE+RNWozjowpeBVG
 github.com/philips-software/gautocloud-connectors v0.0.0-20200529051632-530fc74435ad h1:Mo/weXSzcLrkmlHZr8uqlfg55lbU0k1D8Oiud4mMeYg=
 github.com/philips-software/gautocloud-connectors v0.0.0-20200529051632-530fc74435ad/go.mod h1:1C3of93w20iGtx+U3ysW/L0gKjiu0n3KtFbyoGmjyVA=
 github.com/philips-software/go-hsdp-api v0.40.0/go.mod h1:fXgkNFfvJV2qU5CLn/R4hLNkcqxQBsiXG9FWFjYCIpk=
-github.com/philips-software/go-hsdp-api v0.45.0 h1:FSQAHnxl/CB23HgIAG4oBH64yp5zg/pNB4eyIE4jERQ=
-github.com/philips-software/go-hsdp-api v0.45.0/go.mod h1:wOHxZxjuaNX6G2HEof4ucXEFtLpe3dOjuC/jf+52E7g=
-github.com/philips-software/go-hsdp-signer v1.3.0 h1:Si1voDE/GHzthmxpasPdntbu8aUW6EYJfI6gHVf7BCc=
+github.com/philips-software/go-hsdp-api v0.46.1 h1:DhuyQhPUcTdg/CiG/A3F/6FCeKQvqZp3vH7DA1vvn48=
+github.com/philips-software/go-hsdp-api v0.46.1/go.mod h1:HErZLQl5lv0q4Wu6WAl3MvmuFaa53jjOgICEke4BjgE=
 github.com/philips-software/go-hsdp-signer v1.3.0/go.mod h1:/QehZ/+Aks2t1TFpjhF/7ZSB8PJIIJHzLc03rOqwLw0=
+github.com/philips-software/go-hsdp-signer v1.4.0 h1:yg7UILhmI4xJhr/tQiAiQwJL0EZFvLuMqpH2GZ9ygY4=
+github.com/philips-software/go-hsdp-signer v1.4.0/go.mod h1:/QehZ/+Aks2t1TFpjhF/7ZSB8PJIIJHzLc03rOqwLw0=
 github.com/philips-software/logproxy v1.4.4 h1:1XihpbkRsdbc5fsRMT5FgFSlkrIkFb7Hsto90wFVzxY=
 github.com/philips-software/logproxy v1.4.4/go.mod h1:DFVIkomXJtQLki0GyMAZO/nembdty4hF6ZIZWFx7MyY=
 github.com/pierrec/lz4 v1.0.2-0.20190131084431-473cd7ce01a1/go.mod h1:3/3N9NVKO0jef7pBehbT1qWhCMrIgbYNnFAZCqQ5LRc=
